@@ -1,0 +1,2 @@
+서버주소: http://127.0.0.1:8000/
+git 주소 : https://github.com/KoGyan/mobile_final.git
